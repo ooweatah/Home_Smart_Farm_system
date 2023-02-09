@@ -1,1 +1,5 @@
-# Home_Smart_Farm_system
+# Project : Home Smart Farm System
+---------------------------------------
+## 경상국립대학교 LINK 사업단 창업경진대회 🏆우수상 수상
+
+작성중입니다.
